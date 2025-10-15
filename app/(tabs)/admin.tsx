@@ -1,10 +1,10 @@
+import { useAuth } from '@/contexts/AuthContext';
 import { FontAwesome } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
 import React, { useEffect, useState } from 'react';
 import { ActivityIndicator, Alert, FlatList, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
-import { useAuth } from '@/contexts/AuthContext';
 
-import ConfirmationModal from '@/components/ConfirmationModal'; 
+import ConfirmationModal from '@/components/ConfirmationModal';
 
 const API_URL = 'http://192.168.15.7:4000';
 
