@@ -1,0 +1,48 @@
+export const staticProjectData = {
+  '1': { // ID do Projeto Zoo
+    gallery: [
+      require('../../assets/images/foto_zoo_1.jpg'),
+      require('../../assets/images/foto_zoo_2.jpg'),
+      require('../../assets/images/foto_zoo_3.jpg'),
+      require('../../assets/images/foto_zoo_4.jpg'),
+      require('../../assets/images/foto_zoo_5.jpg'),
+      require('../../assets/images/foto_zoo_6.jpg'),
+      require('../../assets/images/foto_zoo_7.jpg'),
+      require('../../assets/images/foto_zoo_8.jpg'),
+      require('../../assets/images/foto_zoo_9.jpg'),
+      require('../../assets/images/foto_zoo_10.jpg'),
+      require('../../assets/images/foto_zoo_11.jpg'),
+      require('../../assets/images/foto_zoo_12.jpg'),
+      require('../../assets/images/foto_zoo_13.jpg'),
+      require('../../assets/images/foto_zoo_14.jpg'),
+    ],
+  },
+  '2': { // ID do Projeto Cinusp
+    gallery: [
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_1.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_2.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_3.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_5.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_6.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_7.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_8.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_9.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_10.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_11.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_13.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_14.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_15.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_16.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_17.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_18.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_19.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_20.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_21.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_22.jpg'),
+      require('../../assets/images/Passeio CINUSP/foto_cinusp_23.jpg'),
+    ],
+  },
+  '3': { // ID do Projeto Jardim Botânico
+    gallery: [],
+  }
+};
